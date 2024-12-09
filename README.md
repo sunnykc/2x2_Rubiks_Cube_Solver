@@ -1,4 +1,4 @@
-# 2x2_Rubiks_Cube_Solver
+# 2x2x2 Rubik's Cube Solver using Reinforcement Learning (Tabular Q Learning)
 
 Q-Learning Agent for Solving a 2x2x2 Rubik's Cube
 -------------------------------------------------
